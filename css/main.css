@@ -38,7 +38,6 @@ html, body {
   overflow-x: hidden; }
 
 .container {
-  
   max-width: 1140px; }
 
 .site-title {
@@ -88,7 +87,7 @@ footer a:not(.nav-link) {
   text-decoration: none;
   cursor: pointer; }
 
-@media (min-width: 48em) {
+@media (min-width: 24em) {
   .site-title {
     float: left; }
   .site-nav {
