@@ -116,7 +116,6 @@ footer a:not(.nav-link) {
   .container {
     width: auto;
     max-width: 100%;
-    height: auto;
     padding: 0; }
   .cover {
     height: 360px;
@@ -125,6 +124,9 @@ footer a:not(.nav-link) {
     display: none; }
   .shadow-1-strong {
     box-shadow: none !important; }
+  .resume-container {
+    min-height: 100px;
+  }
   .resume-container > .my-5 {
     margin: 0 !important; }
   .my-5.p-5 {
