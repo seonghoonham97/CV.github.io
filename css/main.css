@@ -125,7 +125,8 @@ footer a:not(.nav-link) {
   .shadow-1-strong {
     box-shadow: none !important; }
   .resume-container {
-    min-height: 100px;
+    min-height: 100%;
+    height: auto;
   }
   .resume-container > .my-5 {
     margin: 0 !important; }
@@ -143,3 +144,4 @@ footer a:not(.nav-link) {
   .page-break {
     padding-top: 5rem;
     page-break-before: always; } }
+x 
