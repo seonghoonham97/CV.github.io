@@ -1,3 +1,3 @@
 # CV page
 <br>
-Draft version (last update : 2022.04.09)
+Draft version (last update : 2022.09.26)
